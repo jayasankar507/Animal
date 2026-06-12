@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/Data/images/train/ 
+val:  /content/drive/MyDrive/Data/images/valid/
+
+# number of classes
+nc: 19
+
+# Classes
+names: ['antelope', 'badger', 'bat', 'bear', 'beaver', 'beetle', 'bison', 'black bear', 'boar', 'bobcat', 'buffalo', 'butterfly', 'crow', 'fish', 'honeybee', 'koala', 'pig', 'polar bear', 'zebra']

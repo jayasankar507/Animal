@@ -1,0 +1,1 @@
+https://universe.roboflow.com/ecowatchai/animal-species-detection
